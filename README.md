@@ -1,0 +1,7 @@
+# HumidityTemperatureLogger
+自動温度湿度記録計
+
+数時間に一度温度と湿度を計測し
+WebAPIにデータをPOSTする
+
+待機中はDeepSleepを使用し電池の消耗を抑える
